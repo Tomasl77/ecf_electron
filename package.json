@@ -1,0 +1,24 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "Rest countries async",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomasl77/ecf_electron.git"
+  },
+  "keywords": [],
+  "author": "Tomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomasl77/ecf_electron/issues"
+  },
+  "homepage": "https://github.com/Tomasl77/ecf_electron#readme",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
