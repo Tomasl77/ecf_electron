@@ -49,6 +49,7 @@ async function fetchD() {
 }
 
 function fetchAndDisplayData() {
+    responseNumber = 0;
     fetchA();
     fetchB();
     fetchC();
